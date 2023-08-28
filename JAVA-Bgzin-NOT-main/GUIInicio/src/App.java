@@ -3,6 +3,6 @@ public class App {
         //new FrameAWT();
         //new JFrameSwing();
         //new JOptionPaneExemplo();
-        new JButtonAndJabel();
+        new Calculadora();
     }
 }

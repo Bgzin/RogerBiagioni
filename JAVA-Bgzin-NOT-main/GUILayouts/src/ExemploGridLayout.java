@@ -15,7 +15,7 @@ public class ExemploGridLayout {
         painel1.add(new JButton("1"));
         painel1.add(new JButton("2"));
         painel1.add(new JButton("3"));
-        painel1.add(new JButton("4"));.
+        painel1.add(new JButton("4"));
        //config janela1
        janela1.setBounds(500, 500, 500, 500);
        janela1.setDefaultCloseOperation(2);
