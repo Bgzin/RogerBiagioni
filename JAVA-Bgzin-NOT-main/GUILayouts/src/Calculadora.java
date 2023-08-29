@@ -10,7 +10,7 @@ import java.awt.LayoutManager;
 public class Calculadora {
     public Calculadora() {
 
-        JFrame janelaA = new JFrame("Exemplo GridLayout");
+        JFrame janelac = new JFrame("Exemplo GridLayout");
         BorderLayout border = new BorderLayout();
         JPanel painelA = new JPanel();
         JPanel painel2 = new JPanel();//padrão FlowLayout
