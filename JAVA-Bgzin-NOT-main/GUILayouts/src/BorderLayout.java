@@ -2,6 +2,9 @@ import javax.swing.JFrame;
 import java.awt.*;
 
 public class BorderLayout {
+    public static final Object CENTER = null;
+    public static final Object NORTH = null;
+
     public BorderLayout() {
         super();
         //criando uma janela
